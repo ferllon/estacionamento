@@ -1,2 +1,1 @@
-# estacionamento
-Site para gerir clientes mensais estacionamento
+Sistema para controle de mensalistas em um estacionamento.
